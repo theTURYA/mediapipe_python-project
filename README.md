@@ -1,4 +1,4 @@
-<p/>AI Pose Estimation (prototype of AI powered gym tracker) with Python and MediaPope.
+# AI Pose Estimation (prototype of AI powered gym tracker) with Python and MediaPope.
 <br>
 <p/> This gym tracker prototype detect different posts from a webcam feed and render the results to the screen using OpenCV library. 
 
