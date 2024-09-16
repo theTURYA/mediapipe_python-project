@@ -1,15 +1,16 @@
-# AI Pose Estimation (prototype of AI powered gym tracker) with Python and MediaPope.
+# AI Pose Estimation (prototype of AI powered gym tracker) with Python and MediaPipe.
 <br>
 <p/> This gym tracker prototype detect different posts from a webcam feed and render the results to the screen using OpenCV library. 
 
 Additionally we will learn how to extract joint co-ordinates and calcultate joint angle.
 <br>
-<p/>We will learn how to:
-<br>
+<p/>
+We will learn how to:
+  <br>
 1. Set up MediaPipe for Python 
-<br>  
+  <br>  
 2. Estimate poses using your Webcam and OpenCV
-<br>  
+  <br>  
 3. Extract join coordinates from the detected pose
   <br>
 4. Calculate angles between joints using Numpy and Trigonometry
