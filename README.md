@@ -1,1 +1,2 @@
-# mediapipe_python-project
+MEDIAPIPE PROJECT
+author - turya
