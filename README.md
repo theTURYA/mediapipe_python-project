@@ -11,6 +11,8 @@ Additionally we will learn how to extract joint co-ordinates and calcultate join
 2. Estimate poses using your Webcam and OpenCV
 <br>  
 3. Extract join coordinates from the detected pose
+  <br>
 4. Calculate angles between joints using Numpy and Trigonometry
+  <br>
 5. Building an AI Powered Gym Tracker to count your reps
 <br> 
